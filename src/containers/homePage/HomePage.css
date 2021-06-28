@@ -1,0 +1,21 @@
+.homepage {
+  margin: 1em 5em;
+  display: grid;
+  row-gap: 10px;
+}
+
+.homepage button {
+  border-radius: 5px;
+  border: none;
+  height: 3em;
+  background-color: rgb(224, 155, 91);
+  color: white;
+  font-weight: 700;
+  font-size: 1em;
+  transition: 0.5s;
+}
+
+.homepage button:hover {
+  background-color: rgb(184, 127, 73)
+}
+

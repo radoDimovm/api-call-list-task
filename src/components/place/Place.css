@@ -1,0 +1,13 @@
+.place {
+  border-radius: 10px;
+  background-color: papayawhip;
+}
+
+.place h3 {
+  color: rgb(121, 121, 121);
+  margin: 0;
+}
+
+.place h2 {
+  margin: 10px 0;
+}
